@@ -1,6 +1,7 @@
 .cuadro {
     font-family: Game of Thrones;
     display: flex;
+    background: red;
     height: 200px;
     width: 100%;
     align-items: center;
